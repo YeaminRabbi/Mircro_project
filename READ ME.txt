@@ -1,0 +1,7 @@
+For Simulating this Project You need to have the following LIB file 
+
+1. DHT Lib
+2. Wire lib
+3. Ultrasonic HEX file
+4. Wireless LIB for RX and TX Modulo lib file
+ 
